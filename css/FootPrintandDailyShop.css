@@ -1,0 +1,19 @@
+.contentRight .footprint{padding:10px;background:#fff;margin-top:10px;}
+	.footprint h4{font-size:16px;color:#3c3c3c;display:inline-block;padding:2px 0px;}
+	.footprint ul{width:260px;}
+	.footprint ul li{float:left;width:75px;height:100px;text-align:center;margin:5px;}
+	.footprint ul li img{width:75px;height:75px;display:block;}
+	.footprint ul li span{font-size:13px;}
+	.footprint em{color:#666;text-align:center;}
+.contentRight .dailyGoodShop{margin-top:10px;background:#fff;padding:5px;}
+	.dailyGoodShop>h3{width:100%;height:30px;background:url("../images/taobaoPic.png") no-repeat 0px -800px;}
+	.dailyGoodShop>strong{padding-top:10px;display:inline-block;color:#3C3C3C;transition:all .1s;}
+	.dailyGoodShop>strong:hover{color:#F40;cursor:pointer;}
+	.dailyGoodShop>span{display:block;padding:4px 0px;font-size:14px;}
+	.dailyGoodShop>a{float:right;overflow:hidden;}
+	.dailyGoodShop>a:nth-of-type(1){width:180px;height:180px;}
+	.dailyGoodShop>a:nth-of-type(2),
+	.dailyGoodShop>a:nth-of-type(3){width:89px;height:89px;}
+	.dailyGoodShop>a:nth-of-type(1) img{width:180px;height:180px;}
+	.dailyGoodShop>a:nth-of-type(2) img,
+	.dailyGoodShop>a:nth-of-type(3) img{width:89px;height:89px;}

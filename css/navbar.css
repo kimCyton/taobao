@@ -1,0 +1,10 @@
+/* nav-style  */
+.part-one .fp-L_up .nav{width:200px;background:#FF6537;margin:-36px 0 0 0px;}
+.part-one .fp-L_up .nav ul li{height:30px;line-height:30px;transition:0.4s;
+	padding:0px 0px 0px 30px;position:relative;width:170px;overflow:hidden;color:#fff;}
+.part-one .fp-L_up .nav ul li:hover{background:#F94a14;}
+.part-one .fp-L_up .nav ul li a{color:#fff;
+	font-size:14px;font:13px/1.5 tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;font-weight:600;}
+.part-one .fp-L_up .nav ul li>a:after{content:">";display:inline-block;position:absolute;right:10px;top:5px;}
+.part-one .fp-L_up .nav ul h3 a{color:#fff;font-size:16px;line-height:35px;padding:0px 12px;}
+.part-one .fp-L_up .nav ul li a:hover{text-decoration:underline;}

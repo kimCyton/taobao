@@ -1,0 +1,15 @@
+.banner{margin-right:10px;}
+#banner{width:520px;height:280px;background:#ddd;position:relative;}
+#bannerOnepic{width:520px;height:280px;overflow:hidden;}
+#bannerOnepic ul{width:700%;height:280px;}
+#bannerOnepic ul li{float:left;}
+#bannerOnebtn div{width:23px;height:36px;background:#000;background:rgba(0,0,0,.5);
+	font-size:18px;color:#fff;font-weight:bold;text-align:center;line-height:36px;cursor:pointer;
+	position:absolute;top:50%;margin-top:-18px;}
+#bannerOnebtn .ban-one-left{left:0px;}
+#bannerOnebtn .ban-one-right{right:0px;}
+#bannerOnetab{width:70px;height:14px;position:absolute;bottom:10px;left:50%;margin-left:-35px;}
+#bannerOnetab ul li{list-style:none;width:10px;height:10px;float:left;background:#999;border-radius:50%;
+	margin:2px	2px;cursor:pointer;}
+#bannerOnetab ul li.on{background:#f60;}
+.on{display:block;}

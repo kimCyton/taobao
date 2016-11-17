@@ -1,0 +1,10 @@
+/* public */
+
+.container{width:1210px;margin:0px auto;}
+.clearfix{content:"";display:block;width:100%;clear:both;}
+.fl{float:left;}.fr{float:right;}
+.border{border:1px solid red;}
+.bg-r{background:red;}
+.bg-b{background:blue;}
+.bg-g{background:green;}
+.bg-con{background:#ddd;}

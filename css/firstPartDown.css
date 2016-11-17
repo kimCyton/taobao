@@ -1,0 +1,33 @@
+/* firstPart Down style */
+.fp-L_down{width:900px;height:80px;clear:both;}
+.fp-L_down ul{width:900px}
+.fp-L_down ul li{width:172px;height:80px;float:left;
+	padding:0px 4px;background:#fff;position:relative;cursor:pointer;}
+.fp-L_down ul li>i.pic{
+	display:inline-block;width:60px;height:60px;background:#f0f0f0;position:relative;
+	top:10px;left:5px;border-radius:100%;border:1px solid #ddd;transition:all 0.3s;
+}
+.fp-L_down ul li:nth-of-type(1)>i.pic{
+	background:url("http://gw.alicdn.com/tfscom/TB1vOsyLXXXXXXvXpXXSutbFXXX.jpg_60x60q90.jpg");}
+.fp-L_down ul li:nth-of-type(2)>i.pic{
+	background:url("http://gw.alicdn.com/tfscom/TB2HD6WuXXXXXc4XXXXXXXXXXXX_!!0-dgshop.jpg_60x60q90.jpg");}
+.fp-L_down ul li:nth-of-type(3)>i.pic{
+	background:url("http://gw.alicdn.com/tfscom/TB1LybkKpXXXXcvXVXXXXXXXXXX_!!0-tejia.jpg_60x60q90.jpg");}
+.fp-L_down ul li:nth-of-type(4)>i.pic{
+	background:url("http://gw.alicdn.com/tfscom/TB1p8ZUJVXXXXciXpXXSutbFXXX.jpg_60x60q90.jpg");}
+.fp-L_down ul li:nth-of-type(5)>i.pic{
+	background:url("http://gw.alicdn.com/tfscom/TB13rW9NFXXXXXfXFXXXXXXXXXX_!!0-tejia.jpg_60x60q90.jpg");}
+.fp-L_down ul li:nth-of-type(1):hover>i.pic{border:1px solid #9a745f;}
+.fp-L_down ul li:nth-of-type(2):hover>i.pic{border:1px solid #81c18f;}
+.fp-L_down ul li:nth-of-type(3):hover>i.pic{border:1px solid #72a5f6;}
+.fp-L_down ul li:nth-of-type(4):hover>i.pic{border:1px solid #846fc7;}
+.fp-L_down ul li:nth-of-type(5):hover>i.pic{border:1px solid #de525e;}
+.fp-L_down ul li>span{display:inline-block;position:relative;left:7px;top:5px;}
+.fp-L_down ul li:nth-of-type(1)>span h3,.fp-L_down ul li:nth-of-type(1)>span span{color:#9a745f;}
+.fp-L_down ul li:nth-of-type(2)>span h3,.fp-L_down ul li:nth-of-type(2)>span span{color:#81c18f;}
+.fp-L_down ul li:nth-of-type(3)>span h3,.fp-L_down ul li:nth-of-type(3)>span span{color:#72a5f6;}
+.fp-L_down ul li:nth-of-type(4)>span h3,.fp-L_down ul li:nth-of-type(4)>span span{color:#846fc7;}
+.fp-L_down ul li:nth-of-type(5)>span h3,.fp-L_down ul li:nth-of-type(5)>span span{color:#de525e;}
+.fp-L_down ul li>span h3{font-size:16px;}
+.fp-L_down ul li>span span{font-size:12px;}
+.fp-L_down ul li>span i{font-size:12px;color:#999;}

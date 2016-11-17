@@ -1,0 +1,30 @@
+/* search style */
+.search{padding-top:30px;background:#fff;height:150px;}
+.search .s-left{width:190px;margin:4px 0 0 -14px;}
+.search .s-middle{width:850px;}
+.search .s-right{width:160px;}
+.search .mainsearch{margin-top:30px;margin-left:80px;width:622px;height:40px;position:relative;background:#F50;}
+.search .mainsearch h3 a{position:absolute;right:-35px;top:0px;font-size:13px;font-weight:500;color:#666;}
+.search .mainsearch h3 a:hover{color:#F50;}
+.search .mainsearch input{width:472px;height:34px;border:3px solid #F50;padding-left:10px;}
+.search .mainsearch button{background:transparent;border:none;padding-left:40px;
+	color:#fff;font-size:18px;font-family:"微软雅黑";font-weight:600;
+}
+.search .sublink{padding-top:6px;}
+.search .sublink a{color:#666;font:12px/1.5 tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;padding:6px 3px 0 0;}
+.search .sublink a:hover{color:#F40;}
+.search .sublink a:nth-of-type(1),.search .sublink a:nth-of-type(2),.search .sublink a:nth-of-type(5){
+color:#F40 !important;}
+
+.searchlink ul{position:absolute;top:90px;left:-40px;width:900px;}
+.searchlink ul li{float:left;}
+.searchlink ul li:nth-of-type(1) a,.searchlink ul li:nth-of-type(2) a,.searchlink ul li:nth-of-type(3) a
+{color:#F50;}
+.searchlink ul li i{color:#888888;padding:0px 4px;}
+.searchlink ul li:hover a{background:#F50;color:#fff;border-radius:20px;}
+.searchlink ul li a{padding:5px;color:#3C3C3C;font-weight:600;}
+.s-right a{margin:10px 0 0 50px;display:block;border:1px solid #ddd;width:100px;height:100px;padding:15px 0 5px 0;position:relative;}/* 调试margin值 */
+.s-right span{position:absolute;width:20px;height:20px;border:1px solid #ddd;left:-22px;top:-1px;
+text-align:center;line-height:20px;color:#ddd;}
+.s-right a i{position:absolute;top:2px;left:24px;font:12px/1.5 tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;color:#F60;}
+.s-right a img{margin:5px 0 0 5px;width:90 px;height:90px;}

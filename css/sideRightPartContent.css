@@ -1,0 +1,23 @@
+/* sideRightPartContent style */
+.mainContent .contentRight{margin:10px 0 0 10px;width:280px;}
+/* tb-headline */
+.mainContent .contentRight .tb-headline{padding:8px;position:relative;background:#fff;}
+	.tb-headline h3{height:26px;background:url("images/taobaoPic.png") 0 -762px no-repeat;}
+	.tb-headline h3 a{display:block;position:absolute;right:10px;top:10px;font-size:14px;font-weight:500;}
+	.tb-headline .tb-h-content{padding:8px 0 2px 0;}
+	.tb-headline .tb-h-content a img{float:left;margin-right:10px;}
+	.tb-headline .tb-h-content a em{font-weight:600;}
+	.tb-headline .tb-h-content p{font-size:12px;overflow:hidden;height:35px;padding-top:4px;}
+	.tb-headline .tb-h-content a:hover em{color:#F50;}
+
+/* niceGoods */	
+.mainContent .contentRight .niceGoods{margin-top:10px;background:#fff;padding:10px;}
+	.niceGoods h2{height:25px;background:url("images/taobaoPic.png") 0 -646px no-repeat;}
+	.niceGoods ul{padding-top:10px;}
+	.niceGoods ul li{padding:4px 0 15px 0;}
+	.niceGoods ul li a{display:block;height:100px;}
+	.niceGoods ul li a img{float:left;width:100px;height:100px;margin-right:10px;}
+	.niceGoods ul li a strong{display:block;padding-top:6px;color:#000;font-weight:500;}
+	.niceGoods ul li a p{padding-top:10px;font-size:12px;height:34px;overflow:hidden;}
+	.niceGoods ul li a em{padding-top:8px;color:#68acf5;display:block;font-size:14px;}
+	.niceGoods span.anotherGoods{display:block;text-align:center;color:#666;font-weight:400;}

@@ -1,0 +1,33 @@
+/* shotcut style */
+.fp-R .RightShotCut{margin-top:3px;margin-left:-3px;width:280px;height:205px;overflow:hidden;padding:0px 5px;}
+.fp-R .RightShotCut .rShotC li{width:67px;height:65px;float:left;
+	background:#fff;cursor:pointer;border:1px solid #f5f5f5;}
+.fp-R .RightShotCut .rShotC li:hover p{color:#F50;}
+.fp-R .RightShotCut .rShotC li:nth-of-type(1):hover,
+.fp-R .RightShotCut .rShotC li:nth-of-type(2):hover,
+.fp-R .RightShotCut .rShotC li:nth-of-type(3):hover,
+.fp-R .RightShotCut .rShotC li:nth-of-type(4):hover{border:1px solid #F40;}
+.fp-R .RightShotCut .rShotC li i{margin:8px auto 0px;display:block;width:30px;height:30px;}
+/* 12背景图 */
+.fp-R .RightShotCut .rShotC li:nth-of-type(1) i{background:url("../images/taobaoPic.png") 3px 898px;}
+.fp-R .RightShotCut .rShotC li:nth-of-type(2) i{background:url("../images/taobaoPic.png") 3px 856px;}
+.fp-R .RightShotCut .rShotC li:nth-of-type(3) i{background:url("../images/taobaoPic.png") 3px 814px;}
+.fp-R .RightShotCut .rShotC li:nth-of-type(4) i{background:url("../images/taobaoPic.png") 3px 769px;}
+.fp-R .RightShotCut .rShotC li:nth-of-type(5) i{background:url("../images/taobaoPic.png") 3px 724px;}
+.fp-R .RightShotCut .rShotC li:nth-of-type(6) i{background:url("../images/taobaoPic.png") 3px 681px;}
+.fp-R .RightShotCut .rShotC li:nth-of-type(7) i{background:url("../images/taobaoPic.png") 3px 635px;}
+.fp-R .RightShotCut .rShotC li:nth-of-type(8) i{background:url("../images/taobaoPic.png") 3px 592px;}
+.fp-R .RightShotCut .rShotC li:nth-of-type(9) i{background:url("../images/taobaoPic.png") 3px 548px;}
+.fp-R .RightShotCut .rShotC li:nth-of-type(10) i{background:url("../images/taobaoPic.png") 3px 503px;}
+.fp-R .RightShotCut .rShotC li:nth-of-type(11) i{background:url("../images/taobaoPic.png") 3px 458px;}
+.fp-R .RightShotCut .rShotC li:nth-of-type(12) i{background:url("../images/taobaoPic.png") 3px 413px;}
+.fp-R .RightShotCut .rShotC li p{font-size:14px;}
+.fp-R .shotCutApp .head{background:#fff;clear:both;height:88px;text-align:left;padding:10px;}
+
+.fp-R .Apps{margin-top:0px;height:106px;background:#fff;position:relative;}
+.fp-R .Apps>h3{font-size:16px;padding:2px 0 2px 14px;text-align:left;}
+.fp-R .Apps>a{position:absolute;right:10px;top:3px;font-size:12px;}
+.fp-R .Apps>a:hover{color:#F50;}
+.fp-R .Apps>ul{width:280px;height:78px;}
+.fp-R .Apps>ul li{width:56px;height:39px;float:left;}
+.fp-R .Apps>ul li img{width:30px;height:30px;}

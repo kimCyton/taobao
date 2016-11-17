@@ -1,0 +1,10 @@
+/* head style */
+.head{height:35px;padding:0px 5px;background:#f5f5f5;font-size:12px;font-family:"微软雅黑";color:#6C6C6C;}
+.hd-left{width:49%;float:left;line-height:35px;}
+.hd-left span{float:left;border:1px solid transparent;height:33px;}
+.head .hdHover:hover{border:1px solid #ddd;background:#fff;}
+.hd-left span:hover a,.hd-right ul li:hover a{color:#F40;}
+.hd-left span a{padding:0px 15px;}
+.hd-right{width:49%;float:left;line-height:35px;}
+.hd-right ul li{float:left;border:1px solid transparent;height:33px;}
+.hd-right ul li a{padding:0px 10px;}
